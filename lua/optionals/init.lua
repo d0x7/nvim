@@ -1,0 +1,6 @@
+require("optionals.telescope")
+require("optionals.autoformat")
+require("optionals.git")
+require("optionals.undotree")
+require("optionals.autopairs")
+require("optionals.statusline")
