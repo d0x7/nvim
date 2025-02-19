@@ -47,6 +47,7 @@ local plugins = {
 	require("optionals.statusline"),
         require("personal.theme"),
 	require("personal.neotree"),
+        require("optionals.comments"),
 }
 local opts = {}
 
