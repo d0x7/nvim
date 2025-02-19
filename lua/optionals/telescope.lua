@@ -20,7 +20,7 @@ require("telescope").setup({
 		},
 		project = {
 			base_dirs = {
-				"~/Projects/",
+				"~/Workspace/",
 			},
 		},
 		file_browser = {},

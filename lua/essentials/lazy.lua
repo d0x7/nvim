@@ -39,12 +39,12 @@ local plugins = {
 	{ "L3MON4D3/LuaSnip" },
 	{ "rafamadriz/friendly-snippets" },
 
-	-- require("optionals.autoformat"),
-	-- require("optionals.undotree"),
+    require("optionals.autoformat"),
+	require("optionals.undotree"),
 	-- require("optionals.git"),
-	-- require("optionals.bufferline"),
-	-- require("optionals.autopairs"),
-	-- require("optionals.statusline"),
+	require("optionals.bufferline"),
+	require("optionals.autopairs"),
+	require("optionals.statusline"),
         require("personal.theme"),
 	require("personal.neotree"),
 }
