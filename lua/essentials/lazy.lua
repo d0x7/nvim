@@ -46,6 +46,7 @@ local plugins = {
 	-- require("optionals.autopairs"),
 	-- require("optionals.statusline"),
         require("personal.theme"),
+	require("personal.neotree"),
 }
 local opts = {}
 
