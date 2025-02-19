@@ -45,6 +45,7 @@ local plugins = {
 	-- require("optionals.bufferline"),
 	-- require("optionals.autopairs"),
 	-- require("optionals.statusline"),
+        require("personal.theme"),
 }
 local opts = {}
 
